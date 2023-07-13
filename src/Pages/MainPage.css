@@ -1,0 +1,24 @@
+#title{
+    margin-left:auto;
+    margin-right:auto;
+    font-size:60px;
+    margin-top:0;
+}
+.FuncOfDayHeader{
+    color:blueviolet;
+}
+.FuncOfDay{
+    margin-right:auto;
+    margin-left:auto;
+    align-content:center;
+    color:black;
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+    min-height:100%;
+}
+.functions {
+    font-style: italic;
+    font-size: medium;
+    margin: 50px 50px;
+}
+
